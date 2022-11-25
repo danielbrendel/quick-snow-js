@@ -19,4 +19,7 @@ let snow = new QuickSnow('selector', {
 	color: 'rgb(255, 255, 255)', //CSS color expression or 'random' for random color
 	before: true //True to insert as first element or false to append as last element
 });
+
+snow.start(); //Start effect
+snow.stop(); //Stop effect
 ```
