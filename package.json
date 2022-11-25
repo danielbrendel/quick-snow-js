@@ -1,0 +1,25 @@
+{
+  "name": "quick-snow",
+  "version": "1.0.0",
+  "description": "Snowfall effect for your website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbrendel/quick-snow-js.git"
+  },
+  "keywords": [
+    "snow",
+	"snowfall",
+	"snowflakes",
+	"winter"
+  ],
+  "author": "Daniel Brendel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielbrendel/quick-snow-js/issues"
+  },
+  "homepage": "https://github.com/danielbrendel/quick-snow-js#readme"
+}
